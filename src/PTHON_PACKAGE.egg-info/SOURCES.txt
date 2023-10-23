@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/IPYNBrenderer/__init__.py
+src/PTHON_PACKAGE.egg-info/PKG-INFO
+src/PTHON_PACKAGE.egg-info/SOURCES.txt
+src/PTHON_PACKAGE.egg-info/dependency_links.txt
+src/PTHON_PACKAGE.egg-info/requires.txt
+src/PTHON_PACKAGE.egg-info/top_level.txt
